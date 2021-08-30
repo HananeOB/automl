@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+# results.csv
+*.csv
+*.data
+*.data-numeric
+*.sav
